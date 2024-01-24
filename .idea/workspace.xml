@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9acf945c-0f51-475f-b649-b638d9d3fa2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Client/src/main/java/ru/ergakov/gb/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Client/src/main/java/ru/ergakov/gb/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ergakov/gb/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bPWFRI1WxnBBGfvw61rim9084D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ChatClient-1.executor": "Run",
+    "Application.ChatClient-2.executor": "Debug",
+    "Application.ChatClient-3.executor": "Debug",
+    "Application.ChatServer.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ierga/IdeaProjects/GB-Java_junior_Homework_5/Chat-Server/src/main/java/ru/ergakov/gb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ierga\IdeaProjects\GB-Java_junior_Homework_5\Chat-Server\src\main\java\ru\ergakov\gb" />
+      <recent name="C:\Users\Ierga\IdeaProjects\GB-Java_junior_Homework_5\Chat-Client\src\main\java\ru\ergakov\gb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Compound.ChatDemo">
+    <configuration name="ChatClient-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.ergakov.gb.Program" />
+      <module name="Chat-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatClient-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.ergakov.gb.Program" />
+      <module name="Chat-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatClient-3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.ergakov.gb.Program" />
+      <module name="Chat-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.ergakov.gb.Program" />
+      <module name="Chat-Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatDemo" type="CompoundRunConfigurationType">
+      <toRun name="ChatClient-1" type="Application" />
+      <toRun name="ChatClient-2" type="Application" />
+      <toRun name="ChatClient-3" type="Application" />
+      <toRun name="ChatServer" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatClient-1" />
+      <item itemvalue="Application.ChatClient-2" />
+      <item itemvalue="Application.ChatClient-3" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Compound.ChatDemo" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9acf945c-0f51-475f-b649-b638d9d3fa2a" name="Changes" comment="" />
+      <created>1706117095303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706117095303</updated>
+      <workItem from="1706117096382" duration="5358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Chat-Server/src/main/java/ru/ergakov/gb/ClientManager.java</url>
+          <line>81</line>
+          <properties class="ru.ergakov.gb.ClientManager" method="privateMessage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
